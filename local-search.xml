@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/01/05/new/"/>
+    <url>/2023/01/05/new/</url>
+    
+    <content type="html"><![CDATA[<p>正文部分，支持使用Markdown语法和HTML语法书写</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>其他</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/01/05/hello-world/"/>
+    <url>/2023/01/05/hello-world/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>恭喜本站于2023&#x2F;1&#x2F;5建站成功。</p><p>期待后续资源的持续更新。</p><p align="right">By <a href="https://ccr39.love/">ccr39</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>其他</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
