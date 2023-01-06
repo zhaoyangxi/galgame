@@ -30,6 +30,31 @@
   
   <entry>
     <title>Hello World</title>
+    <link href="/2023/01/05/new-1/"/>
+    <url>/2023/01/05/new-1/</url>
+    
+    <content type="html"><![CDATA[<p>正文部分，支持使用Markdown语法和HTML语法书写</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>其他</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>其他</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
     <link href="/2023/01/05/hello-world/"/>
     <url>/2023/01/05/hello-world/</url>
     
