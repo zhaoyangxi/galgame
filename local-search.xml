@@ -42,6 +42,19 @@
   
   
   <entry>
+    <title>【pc/kr】Noble☆Work</title>
+    <link href="/2023/01/07/Noble%E2%98%86Work/"/>
+    <url>/2023/01/07/Noble%E2%98%86Work/</url>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>【pc&#x2F;kr】Noble☆Work<br>##<br><img src="https://s2.loli.net/2023/01/07/3zmAxsdY1b9MrgC.webp" alt="图片">感谢群友（fengmy）的分享<br>##<br>柚子社废萌作品详细介绍请见萌娘百科<a href="https://zh.moegirl.org.cn/Noble">https://zh.moegirl.org.cn/Noble</a> Works<br>###<br>pc端:<a href="https://pan.baidu.com/s/1Q-wxsX57gE2lZyjKaLfsvg">下载</a>提取码：v7de<br>###<br>kr:<a href="https://pan.baidu.com/s/1mGHeNdiMDTfJA3j3GEM3Nw">下载</a>提取码：da79<br>###<br>解压码：雪菜</p><link    rel="stylesheet"    href="https://unpkg.com/@waline/client@v2/dist/waline.css"  /><div id="waline"></div>  <script type="module">    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';    init({      el: '#waline',      serverURL: 'https://ccr39.cf/',       reaction: [    'https://i.328888.xyz/2022/12/09/f5ONE.jpeg',    'https://i.328888.xyz/2022/12/09/f5H4Q.jpeg',    'https://i.328888.xyz/2022/12/09/f5juP.md.jpeg',    'https://i.328888.xyz/2022/12/09/f5bhC.md.jpeg',  ],      emoji: [        '//unpkg.com/@waline/emojis@1.1.0/bilibili',        '//unpkg.com/@waline/emojis@1.1.0/weibo',        '//unpkg.com/@waline/emojis@1.1.0/qq',      ]    });  </script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/01/05/new/"/>
     <url>/2023/01/05/new/</url>
