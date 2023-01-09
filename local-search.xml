@@ -118,6 +118,19 @@
   
   
   <entry>
+    <title>关于我想说的话/留言板</title>
+    <link href="/2023/01/09/%E5%85%B3%E4%BA%8E%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D%E7%95%99%E8%A8%80%E6%9D%BF/"/>
+    <url>/2023/01/09/%E5%85%B3%E4%BA%8E%E6%88%91%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D%E7%95%99%E8%A8%80%E6%9D%BF/</url>
+    
+    <content type="html"><![CDATA[<h1 id="关于我想说的话-x2F-留言板"><a href="#关于我想说的话-x2F-留言板" class="headerlink" title="关于我想说的话&#x2F;留言板"></a>关于我想说的话&#x2F;留言板</h1><hr><p>  本站在朋友的帮助下建成于1月5日，但是因为各种问题鸽两天，直到1月7日才开始正式上传文章。<br>    文章基本上都来自于群友的投稿（部分我的），文章每天都在更，基本上每天都能更个八九篇，虽然文章很短，但是写起来是真的很无聊啊（悲）。<br>    以后每天会拿出将近两个小时的时间来写文章。<br>    还有还有，对galgame感兴趣的同学请务必如我们群捏~<br>    如果有损坏的文章，请在本篇文章下留言，我会及时补的。<br>                                             ——TIES</p><link    rel="stylesheet"    href="https://unpkg.com/@waline/client@v2/dist/waline.css"  /><div id="waline"></div>  <script type="module">    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';    init({      el: '#waline',      serverURL: 'https://ccr39.cf/',       reaction: [    'https://i.328888.xyz/2022/12/09/f5ONE.jpeg',    'https://i.328888.xyz/2022/12/09/f5H4Q.jpeg',    'https://i.328888.xyz/2022/12/09/f5juP.md.jpeg',    'https://i.328888.xyz/2022/12/09/f5bhC.md.jpeg',  ],      emoji: [        '//unpkg.com/@waline/emojis@1.1.0/bilibili',        '//unpkg.com/@waline/emojis@1.1.0/weibo',        '//unpkg.com/@waline/emojis@1.1.0/qq',      ]    });  </script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>千恋万花</title>
     <link href="/2023/01/07/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/"/>
     <url>/2023/01/07/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/</url>
@@ -488,31 +501,6 @@
     <tags>
       
       <tag>工具教程</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2023/01/05/new/"/>
-    <url>/2023/01/05/new/</url>
-    
-    <content type="html"><![CDATA[<p>正文部分，支持使用Markdown语法和HTML语法书写</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>其他</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>其他</tag>
       
     </tags>
     
