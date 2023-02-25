@@ -4,25 +4,6 @@
   
   
   <entry>
-    <title>这是一篇测试</title>
-    <link href="/2023/02/25/test/"/>
-    <url>/2023/02/25/test/</url>
-    
-    <content type="html"><![CDATA[<h1 id="测试喵"><a href="#测试喵" class="headerlink" title="测试喵"></a>测试喵</h1><hr><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>111</p><link    rel="stylesheet"    href="https://unpkg.com/@waline/client@v2/dist/waline.css"  /><div id="waline"></div>  <script type="module">    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';    init({      el: '#waline',      serverURL: 'https://ccr39.cf/',       reaction: [    'https://i.328888.xyz/2022/12/09/f5ONE.jpeg',    'https://i.328888.xyz/2022/12/09/f5H4Q.jpeg',    'https://i.328888.xyz/2022/12/09/f5juP.md.jpeg',    'https://i.328888.xyz/2022/12/09/f5bhC.md.jpeg',  ],      emoji: [        '//unpkg.com/@waline/emojis@1.1.0/bilibili',        '//unpkg.com/@waline/emojis@1.1.0/weibo',        '//unpkg.com/@waline/emojis@1.1.0/qq',      ]    });  </script>]]></content>
-    
-    
-    <categories>
-      
-      <category>纯爱</category>
-      
-    </categories>
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>【PC/KRKR】水葬银货的Istria</title>
     <link href="/2023/01/22/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria/"/>
     <url>/2023/01/22/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria/</url>
